@@ -1,3 +1,4 @@
 first code
 hello run
-echo "date"
+#echo "date"
+echo `date +%y%m%d`
